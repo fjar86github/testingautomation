@@ -1,0 +1,24 @@
+{
+    "name": "testingautomation",
+    "version": "1.0.0",
+    "description": "pengujian software otomatis dengan github action(regression, performance dan functional testing)",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fjar86github/testingautomation.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/fjar86github/testingautomation/issues"
+    },
+    "homepage": "https://github.com/fjar86github/testingautomation#readme",
+    "dependencies": {
+        "jest": "^30.3.0"
+    }
+}
